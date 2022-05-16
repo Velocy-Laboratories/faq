@@ -1,2 +1,2 @@
-# faq
-A discussion repository where you can ask us questions or give us feedback about or work and culture.
+# Frequently-Asked-Questions
+But without the Frequently-Asked-Questions..., you can ask us here everything about our work, projects, culture or give us some ideas or feedback. No one will blame you for anything you're here to write what you what.
